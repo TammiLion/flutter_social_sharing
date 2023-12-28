@@ -1,6 +1,6 @@
 # flutter_social_content_share
 
-Flutter Plugin for sharing contents to social media. This plugin is forked from https://github.com/bhagyashreekhatri/flutter_social_content_share (with a fix for ios fromViewController)
+Flutter Plugin for sharing content to social media. This plugin is forked from https://github.com/bhagyashreekhatri/flutter_social_content_share (with a fix for ios fromViewController)
 
 ## Introduction
 
