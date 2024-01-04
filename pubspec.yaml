@@ -1,5 +1,6 @@
 name: flutter_social_content_share
 description: This plugin can share the contents on social media like instagram, facebook, email, sms and whatsapp.
+publish_to: none
 
 version: 1.0.2
 homepage: https://github.com/TammiLion/flutter_social_sharing
